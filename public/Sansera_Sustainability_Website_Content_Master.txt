@@ -1,0 +1,688 @@
+SANSERA ENGINEERING — SUSTAINABILITY WEBSITE CONTENT MASTER
+
+PURPOSE
+
+This document consolidates website-ready sustainability and ESG content
+from the supplied Sansera Engineering Sustainability Report FY2023-24
+and Annual Report FY2024-25.
+
+IMPORTANT REPORTING NOTE
+
+The reports cover different periods. Use FY2024-25 Annual Report figures
+as the latest/current figures where available. Use FY2023-24
+Sustainability Report figures for detailed historical initiatives and
+programme descriptions. Always display the reporting year next to a KPI.
+Do not combine figures from different years into one metric.
+
+=============================================================== 1. CORE
+SUSTAINABILITY POSITIONING
+===============================================================
+
+Sansera Engineering views sustainability as part of responsible growth
+and precision manufacturing. Its ESG approach focuses on reducing
+environmental impact, increasing renewable-energy use, improving
+resource efficiency, protecting employee health and safety, supporting
+communities, strengthening responsible sourcing and maintaining strong
+governance.
+
+Recommended hero headlines: - Engineering a Cleaner Future. - High
+Precision for a Sustainable Future. - Precision Engineering. Responsible
+Progress. - Clean Energy. Smarter Manufacturing. - Engineering Progress
+with Purpose.
+
+Recommended hero copy: “Sansera integrates environmental stewardship,
+social responsibility and strong governance into precision
+manufacturing—advancing renewable energy, resource efficiency,
+responsible operations and inclusive growth.”
+
+Short version: “Sustainability at Sansera means creating long-term value
+while reducing environmental impact, protecting people, strengthening
+communities and building responsible business practices.”
+
+=============================================================== 2.
+SANsera BUSINESS CONTEXT
+===============================================================
+
+Sansera is a precision-engineering manufacturer serving automotive and
+non-automotive industries. The Sustainability Report describes 16
+integrated manufacturing facilities and highlights expansion into EV
+components and aerospace/defence production.
+
+Key sectors: - Automotive - Electric and hybrid mobility - Aerospace -
+Defence - Agriculture - Industrial automation - Stationary engines -
+Off-road vehicles
+
+Website copy: “From precision components to next-generation mobility and
+aerospace applications, Sansera combines engineering capability with an
+increasing focus on sustainable manufacturing.”
+
+=============================================================== 3. ESG
+STRATEGY AND MATERIALITY
+===============================================================
+
+Sansera developed a focused Environment, Social and Governance strategy
+and roadmap with ownership assigned across functions.
+
+Material environmental topics: - Emissions reduction - Waste
+management - Energy management - Water management - Resource management
+
+Material social topics: - Occupational health and safety - Diversity,
+equity and inclusion - Product responsibility - Training and skill
+development - Stakeholder management - Human rights
+
+Material governance topics: - Information security - Sustainable supply
+chain - Ethics and compliance - Risk management - Technology and
+innovation - Transparency and disclosure
+
+Reporting/disclosure frameworks referenced: - SEBI BRSR - CDP -
+EcoVadis - GRI-aligned Sustainability Report
+
+Materiality process: - Listed ESG material topics using relevant
+frameworks. - Benchmarked eight peer organizations. - Reviewed peer
+KPIs. - Engaged stakeholders. - In FY2022-23, a stakeholder survey
+received 214 responses from customers, service providers, certification
+bodies, employees and suppliers.
+
+=============================================================== 4.
+RENEWABLE ENERGY — PRIORITY WEBSITE CONTENT
+===============================================================
+
+FY2024-25: - 60% of electricity was sourced from renewable sources
+including Solar, Wind and GC Hybrid. - Clean energy accounted for 48%
+when electricity and fuel consumption such as diesel and natural gas are
+considered. - 2030 target: 80% clean-energy consumption.
+
+FY2023-24: - More than 50% of total electrical energy consumption across
+plants came from procured wind and solar energy. - 35,000 MWh (3.5 crore
+units) of renewable energy was achieved across Karnataka plants. -
+Approx. 35 million kWh/year green-energy procurement through solar and
+wind was reported.
+
+Renewable infrastructure/initiatives: - 1,200 kW rooftop solar installed
+across four plants. - 950 kW installation at a new plant. - 933 kW
+rooftop solar at Plant 9. - Planned 1,000 kW installation at Plant 11. -
+Planned 7,000 MWh/year solar power supply for Plant 5. - 27,000 MWh/year
+hybrid power supply for the Karnataka plant was in progress.
+
+Targets: - Increase renewable-energy share to 80% by FY2030. - Rooftop
+solar at feasible plants by 2026.
+
+Recommended website KPI cards: 60% — Electricity from renewable sources
+— FY2024-25 48% — Clean-energy share including electricity and fuel —
+FY2024-25 80% — Clean-energy target — 2030 35,000 MWh — Renewable energy
+across Karnataka plants — FY2023-24 35 million kWh/year — Approx.
+solar/wind green-energy procurement — FY2023-24
+
+Recommended visual story: WIND + SUN → CLEAN ELECTRICITY → EFFICIENT
+FACTORY → LOWER FOOTPRINT
+
+Important wording rule: Do not say Sansera is 100% renewable or that
+wind alone powers all plants. Use the documented percentages and
+reporting years.
+
+=============================================================== 5.
+ENERGY MANAGEMENT AND EFFICIENCY
+===============================================================
+
+FY2023-24 energy data: Total energy consumption: - FY2022-23: 141,311
+MWh - FY2023-24: 164,975 MWh
+
+Energy intensity: - FY2022-23: 6.76 MWh / Rs. million turnover -
+FY2023-24: 6.47 MWh / Rs. million turnover
+
+Energy-efficiency initiatives: 1. Regular energy audits. 2. Auto-cutoff
+mechanisms during machinery idle time. 3. Heat pumps replacing electric
+heaters in washing machines. 4. Priority procurement of IE3/IE4 motors.
+5. IE3/IE4 motor efficiency of approximately 93–95%. 6. Aluminium
+transient pipes for compressed-air distribution. 7. Energy-efficient air
+screw compressors. 8. Energy efficiency considered in inbuilt SPM
+design. 9. Pump/motor optimization in deep-hole drilling machines. 10.
+LPG-to-PNG transition at multiple plants. 11. Photosensors to optimize
+lighting. 12. Waste-heat recovery using compressors in washing
+processes. 13. Continuous improvement through the Energy Management
+System.
+
+Energy Policy: Sansera’s Energy Policy is aligned with ISO 50001:2018
+and focuses on energy performance, efficient products/services, resource
+optimization, employee training, targets and regulatory compliance.
+
+The Annual Report 2024-25 states that all Sansera plants are certified
+under ISO 50001:2018 for Energy Management Systems.
+
+Website section: “Making Every Unit of Energy Count”
+
+Copy: “Sansera combines renewable-energy procurement with operational
+efficiency. Energy audits, intelligent machine controls, efficient
+motors, optimized compressed-air systems, heat recovery and smarter
+lighting help reduce avoidable energy use across manufacturing
+operations.”
+
+=============================================================== 6.
+CLIMATE CHANGE AND EMISSIONS
+===============================================================
+
+Sansera identifies climate change as a significant business and
+environmental issue.
+
+Drivers include: - Increasing extreme weather events. - Evolving
+regulations. - Customer demand for lower-carbon products and
+operations. - Investor focus on ESG performance. - Automotive transition
+toward sustainable mobility.
+
+Climate actions: - Increase renewable-energy sourcing. - Conduct energy
+audits. - Improve energy efficiency. - Invest in lower-energy-footprint
+equipment. - Reduce manufacturing scrap. - Transition toward lower-GWP
+refrigerants. - Expand EV and hybrid-EV component manufacturing.
+
+FY2024-25: 60% of electricity was sourced from renewable sources.
+
+Website copy: “Reducing emissions begins with reducing energy intensity
+and increasing the share of renewable electricity. Sansera is combining
+renewable-energy procurement, energy efficiency and lower-footprint
+manufacturing technologies to support its long-term climate ambitions.”
+
+Do not invent a net-zero date unless an approved company source states
+one.
+
+=============================================================== 7. AIR
+EMISSIONS
+===============================================================
+
+FY2023-24: - NOx: 17.8 MT - SOx: 8.25 MT - Particulate Matter: 66.07 MT
+
+FY2022-23: - NOx: 22.25 MT - SOx: 6.61 MT - Particulate Matter: 53.05 MT
+
+Sansera monitors environmental parameters and submits relevant
+information to authorities and pollution-control boards.
+
+Website section: “Monitoring Environmental Performance”
+
+=============================================================== 8. WATER
+MANAGEMENT
+===============================================================
+
+FY2024-25: - Water intensity: 7.33 KL per million rupees of turnover. -
+Zero Liquid Discharge systems implemented across multiple facilities. -
+Wastewater treated through ETPs/STPs. - Treated water reused for
+gardening.
+
+Website headline: “Every Drop Matters”
+
+Copy: “Sansera focuses on reducing water intensity, treating wastewater
+and increasing responsible reuse. Zero Liquid Discharge systems are
+implemented across multiple facilities, while treated wastewater is
+reused for activities such as gardening.”
+
+=============================================================== 9. WASTE
+MANAGEMENT AND CIRCULAR ECONOMY
+===============================================================
+
+Waste-management practices: - Segregation at source using colour-coded
+bins. - Separate hazardous/non-hazardous storage. - Covered, concrete
+and container-based storage. - Waste generation/disposal registers. -
+Online hazardous-waste management. - Used-oil recovery. - Cotton-waste
+recollection. - Reuse of plastic bins/cans. - Reduced use of oils, acids
+and other materials. - Kaizen improvements. - Metal-chip compaction. -
+Recycling through authorized third parties. - Battery buy-back. -
+Food-waste reduction. - Waste-recycler sustainability audits.
+
+Metal scrap: A chip compact machine compresses metal scrap into
+brick-sized blocks for third-party recycling.
+
+Circular economy: Sansera promotes responsible resource management,
+scrap recycling, material recovery and waste diversion.
+
+Bangalore and Tumkur plants achieved zero-landfill status in the
+FY2023-24 Sustainability Report.
+
+FY2024-25 Annual Report: - 95% of waste to landfill has been eliminated,
+with waste used as alternative fuel/raw material for other industries
+such as cement.
+
+Targets: - Annual Report 2024-25: zero waste to landfill across
+operations by 2030. - FY2023-24 Sustainability Report: zero waste to
+landfill for operational waste by FY2027.
+
+FY2023-24 waste quantities: Plastic: 131.62 MT → 56.0 MT E-waste: 11.56
+MT → 7.2 MT Biomedical: 0.01 MT → 0.0 MT Construction/demolition: 250.00
+MT → 60.5 MT Battery: 8.84 MT → 19.4 MT Other hazardous: 1,487.31 MT →
+2,733.4 MT Other non-hazardous: 24,942 MT → 28,450 MT Total: 26,831 MT →
+31,327 MT
+
+Website headline: “From Waste to Resource”
+
+Copy: “Sansera is strengthening circularity by reducing waste
+generation, recovering valuable materials, recycling metal scrap and
+diverting waste from landfill.”
+
+=============================================================== 10.
+RESOURCE MANAGEMENT
+===============================================================
+
+Resource-efficiency principles: - Reduce - Reuse - Recycle - Optimize
+material consumption - Improve process efficiency - Apply
+Kaizen/continuous improvement - Select efficient equipment - Reduce
+production waste
+
+Website copy: “Precision manufacturing requires precision in resource
+use. Sansera applies continuous improvement, process optimization and
+circular practices to make better use of energy, materials and other
+resources.”
+
+=============================================================== 11.
+LOW-GWP REFRIGERANTS
+===============================================================
+
+Transition to lower-global-warming-potential refrigerants is identified
+as one of Sansera’s environmental initiatives.
+
+Website copy: “Sansera is working to reduce environmental impact through
+the transition to lower-global-warming-potential refrigerants.”
+
+Do not publish a numerical reduction without an approved source.
+
+=============================================================== 12.
+RESPONSIBLE PRODUCTS / EV CONTRIBUTION
+===============================================================
+
+Sansera manufactures complex and critical precision-engineered
+components.
+
+Applications include: Automotive: - Suspension - Chassis - Driveline -
+Braking - ICE powertrain - EV powertrain - Hybrid applications
+
+Non-automotive: - Aerospace - Defence - Agriculture - Industrial
+automation - Stationary engines - Off-road vehicles
+
+The company has expanded manufacturing of EV and Hybrid EV components
+and is investing in lower-energy-footprint equipment as capacities
+expand.
+
+Website copy: “Sansera’s sustainability journey extends beyond factory
+operations. Precision components supporting EVs, hybrids, aerospace,
+agriculture and other sectors enable customers to pursue evolving
+technology and mobility requirements.”
+
+=============================================================== 13.
+PEOPLE AND EMPLOYEE EXPERIENCE
+===============================================================
+
+FY2024-25: - Total workforce: 10,319 - Employees: 1,584 - Workers:
+8,735 - 100% health and accident insurance coverage. - 11,003 personnel
+trained through skill-development programmes. - 6.1% female
+representation among permanent employees. - 2030 target: 10% female
+workforce.
+
+Employee initiatives described in FY2023-24: - Kaizen continuous
+improvement. - Quality Control Circles. - Suggestion Scheme. - Regular
+quizzes covering business, products, safety and environmental
+practices. - Sports Day. - Safety Day. - Family Day. - World Environment
+Day. - Service awards for 10, 20, 25 and 30 years. - Annual appraisal,
+increments and promotions. - Gym/yoga facilities at some locations. -
+Annual medical check-ups. - Marriage-related loan facility on request. -
+Attendance bonus for 100% attendance. - PF, gratuity and ESI benefits.
+
+Website headline: “People Power Progress”
+
+Copy: “Sustainability starts with people. Sansera invests in employee
+well-being, skills, engagement, safety and continuous improvement to
+create a workplace where people can contribute, grow and innovate.”
+
+=============================================================== 14.
+DIVERSITY, EQUITY AND INCLUSION
+===============================================================
+
+FY2024-25: - 6.1% female representation in permanent employees. - 2030
+target: 10%.
+
+Sansera describes diversity across gender, religion, ethnicity and
+educational backgrounds.
+
+DEI supports: - Employee engagement. - Creativity. - Innovation. -
+Better decision-making. - Customer satisfaction. - Employer reputation.
+
+Website KPI: 6.1% — Female representation — FY2024-25 10% — Female
+workforce target — 2030
+
+=============================================================== 15.
+OCCUPATIONAL HEALTH AND SAFETY
+===============================================================
+
+FY2024-25: - Zero fatalities. - Lost Time Injury Frequency Rate: 0.04
+per million person-hours for workers. - All 14 plants certified under
+ISO 45001 according to the Annual Report. - Great Place to Work
+certified for three consecutive years.
+
+FY2023-24: - 13 of 17 plants, including one international plant in
+Sweden, were certified under ISO 45001 at that time. - Zero
+high-consequence work-related injury or ill-health reported.
+
+Safety systems: - Integrated EHSQ management system. - Hazard
+Identification and Risk Assessment (HIRA). - Annual/as-required HIRA
+studies. - Training and internal audits. - Machine maintenance. - Fire
+hydrants, extinguishers and alarms. - Safety sensors and guards. -
+Medical check-ups. - Environmental monitoring. - Safety signage. -
+Safety tool talks. - EHS Skill Olympiad. - PPE. - Emergency
+procedures. - Lockout-Tagout. - Monthly health/safety audits. - Fire,
+chemical and machinery-safety training.
+
+Website headline: “Safety by Design”
+
+Copy: “Sansera protects employees and workers through structured hazard
+assessment, safety training, PPE, machine safeguards, emergency systems,
+medical support and ISO 45001-aligned occupational health and safety
+management.”
+
+=============================================================== 16.
+COMMUNITY AND CSR
+===============================================================
+
+Sansera Foundation: Established July 5, 2007.
+
+CSR focus: - Education - Livelihood - Environment - Disability -
+Healthcare - Skill development - Energy conservation - Water
+conservation - Sports - Employee volunteering
+
+FY2023-24: CSR budget exceeded ₹3,43,16,743.
+
+Programs included: - Education for underprivileged children. -
+Sanitation facilities in rural schools. - Environmental
+sustainability. - Long-term community capacity building.
+
+FY2024-25: - 32,000+ individuals benefited through education, healthcare
+and community development. - 613 scholarships provided to students from
+economically weaker sections. - 1,198 units of blood donated through
+employee volunteering.
+
+Employee well-being investment: ₹176.97 million, approximately 0.7% of
+total revenue.
+
+Website headline: “Creating Impact Beyond the Factory”
+
+Copy: “Through the Sansera Foundation and employee volunteering, CSR
+initiatives support education, healthcare, community development,
+environmental sustainability and opportunities for underserved
+communities.”
+
+=============================================================== 17.
+SUSTAINABLE SUPPLY CHAIN
+===============================================================
+
+Supply-chain principles: - Business integrity and ethics. - Human
+rights. - Accountability and transparency. - Legal/regulatory
+compliance. - Green products and processes. - Reduce, reuse and
+recycle. - Green initiatives. - Responsible stakeholder conduct. -
+Employee health and safety. - Local community development. - Quality
+management. - Good manufacturing practices. - Material management. -
+Facility and machinery controls.
+
+Responsible sourcing policy covers: - Responsible natural raw-material
+sourcing. - Human rights. - Health and safety. - Environmental
+protection. - Sustainable development. - Water and air quality. - Energy
+consumption. - Waste reduction. - Regulatory compliance.
+
+FY2023-24: 43% of value-chain partners underwent sustainability
+assessment.
+
+FY2024-25: 65% of suppliers assessed for sustainability practices.
+
+2027 target: 75% supplier sustainability assessment coverage.
+
+Website KPI: 65% — Suppliers assessed — FY2024-25 75% — Target — 2027
+
+Website copy: “Sansera extends sustainability beyond its own facilities
+by assessing suppliers, encouraging responsible sourcing and
+collaborating with partners to improve environmental and social
+performance across the value chain.”
+
+=============================================================== 18.
+ETHICS, COMPLIANCE AND GOVERNANCE
+===============================================================
+
+Governance philosophy: Fairness, transparency, accountability and trust.
+
+The Code of Conduct applies to employees, Board members, subsidiaries
+and associates.
+
+Key policies: - CSR Policy - ESG Policy - Grievance Policy - Responsible
+Sourcing of Raw Material Policy - Conflict Mineral Policy - Sustainable
+Procurement Policy - Energy Policy - Environmental Occupational Health
+and Safety Policy - Business Ethics, Working Conditions and Human Rights
+Policy - Forced Labour Policy - Child Labour Policy - POSH Policy -
+Whistleblower Policy - Anti-Bribery Policy
+
+FY2024-25: - Dedicated ESG Committee at Board level with 3 independent
+directors. - 100% Code of Conduct training coverage across management
+levels. - Zero incidents of corruption, bribery or conflicts of interest
+reported. - 155 employee grievances addressed. - 161 customer complaints
+resolved with zero pending at year-end. - TÜV SÜD limited assurance on
+key ESG metrics/disclosures.
+
+Website headline: “Governance that Builds Trust”
+
+Copy: “Strong governance supports sustainable growth. Sansera combines
+board-level ESG oversight, ethical policies, transparent disclosures,
+compliance systems and stakeholder grievance mechanisms to strengthen
+accountability.”
+
+=============================================================== 19.
+INFORMATION SECURITY
+===============================================================
+
+Information security is a material governance topic.
+
+Controls described in the Sustainability Report: - CrowdStrike Falcon
+Complete EDR for endpoint/server protection. - Unified Threat Protection
+at network perimeter. - Device control for Bluetooth, USB and card
+readers. - Controlled external sharing through OneDrive/SharePoint. -
+Microsoft Exchange Online Protection for malicious-email/phishing
+defence.
+
+FY2023-24: - Zero customer PII data breaches reported. - No incidents of
+non-compliance concerning product/service health and safety.
+
+FY2024-25 target: - ISO 27001 certification at all plants.
+
+=============================================================== 20.
+CERTIFICATIONS AND RECOGNITION
+===============================================================
+
+FY2024-25 highlights: - ISO 45001 — Occupational Health & Safety - ISO
+50001 — Energy Management - ISO 14001 — Environmental Management - IGBC
+Platinum green-building certification for new and some existing
+facilities - Great Place to Work certification for three consecutive
+years - TÜV SÜD limited assurance on key ESG metrics
+
+Other standards referenced: - ISO 9001:2015 - IATF 16949:2016 - OECD
+Guidelines for Multinational Enterprises - UN Guiding Principles on
+Business and Human Rights
+
+Website heading: “Standards That Strengthen Our Commitment”
+
+=============================================================== 21.
+MATERIAL ESG RISKS AND OPPORTUNITIES
+===============================================================
+
+GHG emissions: Risk from emissions-intensive manufacturing and
+increasing customer, investor and regulatory expectations. Mitigation:
+energy audits, renewable energy, energy efficiency and lower-
+energy-footprint equipment. Opportunity: lower costs, stronger ESG
+positioning and customer preference.
+
+Waste: Risk from improper hazardous-waste handling. Opportunity:
+circular economy, scrap recycling and zero-landfill practices.
+
+Energy: Opportunity to reduce cost, improve efficiency and support
+emissions reduction. All plants are certified under ISO 50001:2018
+according to the FY2024-25 Annual Report.
+
+Product responsibility: The shift toward EVs increases the importance of
+product innovation. Greater EV-product development can strengthen
+customer relationships and future readiness.
+
+Occupational safety: Risks include physical hazards, chemical exposure,
+vehicle movement, ergonomic strain, respiratory risks, noise and fire.
+Mitigation includes integrated EHSQ, HIRA, training, ISO 45001 and
+medical support.
+
+DEI: Opportunity to improve inclusion, engagement, creativity,
+innovation and employer reputation.
+
+Supply chain: Risks include irresponsible sourcing, labour/human-rights
+violations, child labour, unsafe workplaces and environmental
+non-compliance. Mitigation includes responsible sourcing, sustainable
+procurement, supplier assessments and conflict-mineral controls.
+
+=============================================================== 22. 2030
+ROADMAP ===============================================================
+
+2030 commitments: - 80% clean-energy consumption. - 10% female workforce
+representation. - Zero waste to landfill across operations. - ISO 27001
+certification at all plants. - Continued reduction in workplace
+injuries. - Continued emissions reduction and renewable-energy adoption.
+
+2027: - 75% supplier sustainability assessment coverage.
+
+FY2025-26 immediate focus: - Expand renewable-energy capacity. - Enhance
+diversity and inclusion. - Implement advanced waste-reduction
+technologies. - Strengthen supply-chain sustainability assessments. -
+Deploy comprehensive ESG data-management systems. - Develop Scope 3
+emissions inventory for applicable categories.
+
+Suggested timeline: NOW → 2027 → 2030
+
+=============================================================== 23.
+RECOMMENDED WEBSITE PAGE STRUCTURE
+===============================================================
+
+1.  HERO Headline: “Engineering a Cleaner Future.” Subheading:
+    “Precision engineering powered by responsible growth, renewable
+    energy and a commitment to people and planet.” Visual: Wind
+    turbines + solar + advanced manufacturing.
+
+2.  SUSTAINABILITY AT A GLANCE KPI cards: 60% renewable electricity 48%
+    clean-energy share 80% clean-energy target by 2030 95% landfill
+    waste eliminated 65% suppliers assessed 32,000+ CSR beneficiaries
+
+3.  CLEAN ENERGY Headline: “Powering Progress with Cleaner Energy”
+    Story: Wind + solar → clean electricity → efficient manufacturing.
+
+4.  ENERGY EFFICIENCY Show: Efficient motors, machine auto-cutoff, heat
+    recovery, compressed-air optimization, ISO 50001.
+
+5.  CLIMATE / EMISSIONS Show: Renewable energy, energy efficiency,
+    low-GWP refrigerants, EV/hybrid component manufacturing.
+
+6.  CIRCULAR ECONOMY Show: Scrap recycling, metal-chip compaction,
+    used-oil recovery, battery buy-back, alternative-fuel/cement
+    co-processing, landfill diversion.
+
+7.  WATER Show: ETP/STP, Zero Liquid Discharge, water reuse.
+
+8.  PEOPLE KPI: 10,319 workforce 100% health/accident insurance 11,003
+    trained 6.1% female representation
+
+9.  SAFETY KPI: 0 fatalities 0.04 LTIFR
+
+10. COMMUNITY KPI: 32,000+ beneficiaries 613 scholarships 1,198 blood
+    donations
+
+11. SUPPLY CHAIN KPI: 65% assessed 75% target by 2027
+
+12. GOVERNANCE Show: ESG Committee, ethics, human rights, information
+    security, responsible procurement, transparency.
+
+13. 2030 ROADMAP Show future targets.
+
+14. REPORTS & POLICIES Link official Sustainability Report, Annual
+    Report and approved policies.
+
+=============================================================== 24.
+READY-TO-USE WEBSITE COPY
+===============================================================
+
+RENEWABLE ENERGY “Renewable energy is a central part of Sansera’s
+transition toward lower-footprint manufacturing. In FY2024-25, 60% of
+electricity was sourced from renewable sources including solar, wind and
+hybrid power, supporting the company’s journey toward an 80%
+clean-energy target by 2030.”
+
+ENERGY EFFICIENCY “Energy efficiency is embedded into manufacturing
+through audits, efficient motors, intelligent machine controls, heat
+recovery, compressed-air optimization and ISO 50001 energy-management
+systems.”
+
+EMISSIONS “Sansera is combining renewable-energy procurement, energy
+efficiency and lower-footprint manufacturing technologies to support
+long-term emissions reduction.”
+
+WASTE “Sansera is strengthening circularity by reducing waste,
+recovering valuable materials, recycling metal scrap and diverting waste
+from landfill. The company reported elimination of 95% of waste to
+landfill in FY2024-25 and is working toward zero waste to landfill.”
+
+WATER “Water stewardship includes improved water intensity, wastewater
+treatment, reuse and Zero Liquid Discharge systems across multiple
+facilities.”
+
+PEOPLE “Sansera invests in employee well-being, skill development,
+engagement, diversity and safety to build a workplace where people can
+grow and contribute to continuous improvement.”
+
+COMMUNITY “Through the Sansera Foundation and employee volunteering, CSR
+initiatives support education, healthcare, community development,
+environmental sustainability and opportunities for underserved
+communities.”
+
+GOVERNANCE “Strong governance, ethical conduct, transparency and
+board-level ESG oversight provide the foundation for responsible and
+sustainable growth.”
+
+=============================================================== 25.
+FINAL SUSTAINABILITY MESSAGE
+===============================================================
+
+“At Sansera, sustainability is not a separate destination—it is part of
+how we engineer, manufacture and grow.
+
+From renewable wind and solar energy to efficient manufacturing,
+circular resource use, responsible sourcing, safer workplaces and
+stronger communities, we are building a more resilient future through
+precision engineering.
+
+Our ambition is clear: reduce environmental impact, create value for
+people and communities, and strengthen responsible business practices
+across the value chain.
+
+High Precision for a Sustainable Future.”
+
+=============================================================== 26.
+WEBSITE CLAIMS CHECKLIST
+===============================================================
+
+Before publishing: [ ] Add reporting year to every KPI. [ ] Prefer
+FY2024-25 data where the same KPI is available. [ ] Keep FY2023-24
+historical figures clearly labelled. [ ] Mark future numbers as TARGETS.
+[ ] Do not claim net-zero without an approved company source. [ ] Do not
+claim 100% renewable power. [ ] Do not imply wind alone supplies all
+renewable electricity. [ ] Do not convert renewable-electricity
+percentage into total-energy percentage. [ ] Keep “renewable
+electricity” and “clean energy” as separate concepts. [ ] Tie
+certification counts to their reporting year. [ ] Use official company
+wording for formal targets and policies.
+
+=============================================================== 27.
+SOURCE DOCUMENTS
+===============================================================
+
+Primary supplied sources: 1. Sansera Engineering — Sustainability Report
+FY2023-24, “High Precision for a Sustainable Future” 2. Sansera
+Engineering — Annual Report 2024-25
+
+Recommended source priority: - Annual Report 2024-25 for latest/current
+KPIs and commitments. - Sustainability Report FY2023-24 for detailed
+environmental, people, safety, supply-chain and community initiatives. -
+Official Sansera policy documents for exact policy language. - Official
+Sansera website for current downloadable reports and updates.
+
+END OF DOCUMENT

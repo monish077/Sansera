@@ -1,0 +1,425 @@
+@import "tailwindcss";
+
+/* ============================================================
+   FONT SMOOTHING & BASE
+   ============================================================ */
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1;
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+    letter-spacing: -0.025em;
+    font-feature-settings: 'kern' 1;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+}
+
+/* ============================================================
+   SPEC LABEL SYSTEM
+   Dark-mode variant
+   ============================================================ */
+.spec-label {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #94a3b8;
+}
+
+.spec-value {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  color: #ffffff;
+}
+
+/* ============================================================
+   WHITE-MODE SPEC LABEL
+   ============================================================ */
+.spec-label-light {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #6e6e73;
+}
+
+.spec-value-light {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #1d1d1f;
+}
+
+/* ============================================================
+   SCROLL REVEAL & 3D PERSPECTIVE SYSTEM
+   Add .reveal or .reveal-3d to any element.
+   JS adds .revealed on intersect.
+   ============================================================ */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal.revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* 3D Perspective Reveal */
+.reveal-3d {
+  opacity: 0;
+  transform: perspective(1200px) rotateX(18deg) rotateY(-4deg) translateZ(-80px) scale(0.92);
+  transition: opacity 0.85s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.85s cubic-bezier(0.16, 1, 0.3, 1);
+  transform-style: preserve-3d;
+  will-change: transform, opacity;
+}
+
+.reveal-3d.revealed {
+  opacity: 1;
+  transform: perspective(1200px) rotateX(0deg) rotateY(0deg) translateZ(0) scale(1);
+}
+
+.reveal-delay-1 { transition-delay: 0.08s; }
+.reveal-delay-2 { transition-delay: 0.18s; }
+.reveal-delay-3 { transition-delay: 0.28s; }
+.reveal-delay-4 { transition-delay: 0.38s; }
+.reveal-delay-5 { transition-delay: 0.48s; }
+
+/* ============================================================
+   INTERACTIVE 3D TILT CARDS
+   ============================================================ */
+.tilt-3d-card {
+  transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.45s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.35s ease;
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+
+.tilt-3d-card:hover {
+  transform: perspective(1000px) rotateX(var(--rx, 3deg)) rotateY(var(--ry, -3deg)) translateZ(12px) scale(1.015);
+  box-shadow: 0 30px 60px -15px rgba(0, 0, 0, 0.3);
+}
+
+.tilt-3d-card-light:hover {
+  transform: perspective(1000px) rotateX(var(--rx, 2deg)) rotateY(var(--ry, -2deg)) translateZ(10px) scale(1.01);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.12);
+  border-color: #1d1d1f;
+}
+
+/* 3D Floating Child element inside card */
+.layer-3d-pop {
+  transform: translateZ(30px);
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.tilt-3d-card:hover .layer-3d-pop {
+  transform: translateZ(50px) scale(1.03);
+}
+
+/* 3D Ambient Glowing Light Orb */
+@keyframes floatGlow {
+  0%, 100% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.4; }
+  50% { transform: translate3d(20px, -30px, 0) scale(1.15); opacity: 0.7; }
+}
+
+.animate-float-glow {
+  animation: floatGlow 8s infinite ease-in-out;
+}
+
+/* ============================================================
+   DARK-MODE ANIMATIONS
+   ============================================================ */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* ============================================================
+   CARD HOVER — DARK SECTIONS
+   ============================================================ */
+.hover-elevation {
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.4s ease,
+              box-shadow 0.4s ease;
+}
+
+.hover-elevation:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px -15px rgba(0, 180, 216, 0.15);
+}
+
+/* ============================================================
+   CARD HOVER — LIGHT SECTIONS (white bg)
+   ============================================================ */
+.hover-lift {
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.4s ease,
+              border-color 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 36px -8px rgba(0, 0, 0, 0.10);
+  border-color: #1d1d1f;
+}
+
+/* ============================================================
+   IMAGE SCALE ON HOVER
+   ============================================================ */
+.img-zoom {
+  overflow: hidden;
+}
+
+.img-zoom img {
+  transition: transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.img-zoom:hover img {
+  transform: scale(1.04);
+}
+
+/* ============================================================
+   SECTION TRANSITION & DIVIDER
+   ============================================================ */
+.section-transition-top {
+  position: relative;
+}
+
+.section-transition-top::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #e5e5e5, transparent);
+}
+
+.section-divider {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #e5e5e5 20%, #e5e5e5 80%, transparent);
+}
+
+/* ============================================================
+   BUTTON STYLES — LIGHT MODE
+   ============================================================ */
+.btn-primary-light {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 28px;
+  background: #1d1d1f;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  border-radius: 100px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.btn-primary-light:hover {
+  background: #3a3a3c;
+  transform: translateY(-1px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.btn-ghost-light {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 13px 28px;
+  background: transparent;
+  color: #1d1d1f;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  border-radius: 100px;
+  border: 1px solid #d2d2d7;
+  cursor: pointer;
+  transition: border-color 0.25s ease, background 0.25s ease, transform 0.25s ease;
+}
+
+.btn-ghost-light:hover {
+  border-color: #1d1d1f;
+  background: #f5f5f7;
+  transform: translateY(-1px);
+}
+
+/* ============================================================
+   SCROLLBAR
+   ============================================================ */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f5f5f7;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d2d2d7;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6e6e73;
+}
+
+/* ============================================================
+   PREMIUM ENTERPRISE FORM & MODAL UTILITIES
+   ============================================================ */
+.form-input-group {
+  position: relative;
+  width: 100%;
+}
+
+.form-input-field {
+  width: 100%;
+  padding: 18px 20px 10px 20px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 16px;
+  color: #ffffff;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 13px;
+  outline: none;
+  transition: border-color 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+              background-color 0.25s ease;
+}
+
+.form-input-field:focus {
+  border-color: #38bdf8;
+  background: rgba(15, 23, 42, 0.9);
+  box-shadow: 0 0 0 4px rgba(56, 189, 248, 0.15), 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+}
+
+.form-input-field::placeholder {
+  color: transparent;
+}
+
+.form-input-label {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  font-size: 12px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #94a3b8;
+  pointer-events: none;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.form-input-field:focus ~ .form-input-label,
+.form-input-field:not(:placeholder-shown) ~ .form-input-label {
+  top: 6px;
+  font-size: 9px;
+  letter-spacing: 0.1em;
+  color: #38bdf8;
+}
+
+.form-input-field-light {
+  width: 100%;
+  padding: 18px 20px 10px 20px;
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  color: #1d1d1f;
+  font-size: 14px;
+  outline: none;
+  transition: all 0.25s ease;
+}
+
+.form-input-field-light:focus {
+  border-color: #1d1d1f;
+  box-shadow: 0 0 0 4px rgba(29, 29, 31, 0.08);
+}
+
+.form-input-field-light::placeholder {
+  color: transparent;
+}
+
+.form-input-label-light {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #86868b;
+  pointer-events: none;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.form-input-field-light:focus ~ .form-input-label-light,
+.form-input-field-light:not(:placeholder-shown) ~ .form-input-label-light {
+  top: 6px;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #1d1d1f;
+}
+
+@keyframes borderPulse {
+  0%, 100% { border-color: rgba(56, 189, 248, 0.4); }
+  50% { border-color: rgba(56, 189, 248, 0.9); }
+}
+
+.cad-dropzone-active {
+  animation: borderPulse 1.8s infinite ease-in-out;
+  background: rgba(14, 165, 233, 0.08) !important;
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.animate-shimmer {
+  animation: shimmer 1.5s infinite;
+}
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-light {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(229, 229, 229, 0.8);
+}
